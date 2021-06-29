@@ -7,7 +7,7 @@ https://github.com/StephanThierry/nodejs4synologynas
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stephanthierry&count_private=true&theme=tokyonight&showicons=true)](https://github.com/StephanThierry)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanthierry&exclude_repo=ML-Group6&count_private=true&theme=tokyonight&showicons=true&langs_count=7)](https://github.com/StephanThierry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanthierry&exclude_repo=ML-Group6&count_private=true&theme=tokyonight&showicons=true&langs_count=6)](https://github.com/StephanThierry)
 
 
 <!--
