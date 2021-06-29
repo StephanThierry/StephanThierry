@@ -6,7 +6,7 @@ If you have a Synology NAS and don't want to be limited to running PHP, check ou
 https://github.com/StephanThierry/nodejs4synologynas
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stephanthierry&count_private=true&theme=tokyonight&showicons=true)](https://github.com/StephanThierry)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanthierry&langs_count=10&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanthierry&exclude_repo=ML-Group6)](https://github.com/StephanThierry)
 
 
 <!--
