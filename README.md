@@ -1,10 +1,12 @@
-### Hi I'm Stephan Thierry
+### Hi, my name is Stephan Thierry
 
 I'm a C#, JavaScript developer with a special interest in Linux, DevOps and security. 
 
-If you have a Synology NAS and don't want to be limited to running PHP - but want all that JavaScript NodeJS goodness, check out my repo "nodejs4synologynas":   
+If you have a Synology NAS and don't want to be limited to running PHP, check out my repo "nodejs4synologynas":   
 https://github.com/StephanThierry/nodejs4synologynas
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stephanthierry&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanthierry&langs_count=5&theme=tokyonight)]()
 
 
 <!--
