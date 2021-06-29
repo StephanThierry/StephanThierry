@@ -1,6 +1,6 @@
 ### Hi, my name is Stephan Thierry
 
-I'm a C#, JavaScript developer with a special interest in Linux, DevOps and security. 
+I'm a C#, JavaScript developer with a special interest in AWS Cloud, Linux, DevOps and security. 
 
 If you have a Synology NAS and don't want to be limited to running PHP, check out my repo "nodejs4synologynas":   
 https://github.com/StephanThierry/nodejs4synologynas
