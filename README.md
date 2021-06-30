@@ -5,7 +5,7 @@ I'm a C#, JavaScript developer with a special interest in AWS Cloud, Automation 
 - 🌱 I’m currently learning TerraForm to automate AWS infrastructure creation   
 - ⚡ Fun fact: Technically I'm still the lead singer in the thrash/groove/hardcore/metalcore band Bloodturn: https://bloodturn.dk/  
 - 😄 Pronouns: like most developers - binary
-- 💬 Ask me about: "How to set up and run Nodejs on a Synology NAS. Well, I'm glad you asked Greg! Check out my repo "nodejs4synologynas":   
+- 💬 Ask me about: "How to set up and run Node.js on a Synology NAS. Well, I'm glad you asked Greg! Check out my repo "nodejs4synologynas":   
 https://github.com/StephanThierry/nodejs4synologynas
 - 📫 How to reach me: stephan@protek.dk  
 
