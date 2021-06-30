@@ -7,7 +7,7 @@ I'm a C#, JavaScript developer with a special interest in AWS Cloud, Automation 
 - 😄 Pronouns: like most developers - binary
 - 💬 Ask me about: "How to set up and run Node.js on a Synology NAS. Well, I'm glad you asked Greg! Check out my repo:   
 https://github.com/StephanThierry/nodejs4synologynas
-- 📫 How to reach me: stephan@protek.dk  
+- 📫 How to reach me: `Create an Issue in the repo you want to ask about.`      
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stephanthierry&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true)](https://github.com/StephanThierry)  
