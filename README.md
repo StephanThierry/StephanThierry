@@ -9,11 +9,15 @@ I'm a C#, JavaScript developer with a special interest in AWS Cloud, Automation 
 https://github.com/StephanThierry/nodejs4synologynas
 - 📫 How to reach me: `Create an Issue in the repo you want to ask about.`      
 
+<br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=stephanthierry&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true)](https://github.com/StephanThierry)  
 
+<!--
+<br>
+Meaningless stats for fun:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanthierry&exclude_repo=ML-Group6&count_private=true&theme=tokyonight&showicons=true&langs_count=6)](https://github.com/StephanThierry)
-
+-->
 
 <!--
 **StephanThierry/StephanThierry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
