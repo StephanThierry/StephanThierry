@@ -2,7 +2,7 @@
 
 I'm a C#, JavaScript developer with a special interest in AWS Cloud, Automation and Linux server. 
 
-- 🌱 I’m currently learning TerraForm to automate AWS infrastructure creation   
+- 🌱 I’m currently learning C/AL in C/SIDE for Microsoft Navision.
 - ⚡ Fun fact: Technically I'm still the lead singer in the thrash/groove/hardcore/metalcore band Bloodturn: https://bloodturn.dk/  
 - 😄 Pronouns: like most developers - binary
 - 💬 Ask me about: "How to set up and run Node.js on a Synology NAS. Well, I'm glad you asked Greg! Check out my repo:   
