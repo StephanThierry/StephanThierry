@@ -2,7 +2,7 @@
 
 I'm a C#, JavaScript developer with a special interest in AWS Cloud, Automation and Linux server. 
 
-- 🌱 I’m currently CTO (and Co-owner) of an Energy Trading Company building the Intraday Power Desk on AWS using C#, ReactJS, Docker, PostgreSQL and other technologies.  
+- 🌱 I’m currently Tech Lead at TravelMind Group using C#, ReactJS, VUE, Docker, PostgreSQL + other technologies and speeding up the whole process using ALL kinds of AI tools.  
 - ⚡ Fun fact: Technically I'm still the lead singer in the thrash/groove/hardcore/metalcore band Bloodturn: https://bloodturn.dk/  
 - 😄 Pronouns: like most developers - binary
 - 💬 Ask me about: "How to set up and run Node.js on a Synology NAS. Well, I'm glad you asked Greg! Check out my repo:   
